@@ -2,7 +2,7 @@
 
 Este é um projeto Clean desenvolvido para prestadores de serviços.
 
-<h2> Tecenologias utilizadas</h2>
+<h2> Tecnologias utilizadas</h2>
 <ul><li>HTML</li><li>CSS</li> </ul>
 
 <h2>Design Web</h2>
